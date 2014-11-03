@@ -1,0 +1,1 @@
+A repo containing a few of my favorite Codewars exercises.
